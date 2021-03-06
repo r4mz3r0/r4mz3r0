@@ -18,4 +18,5 @@ ramirogonzalez@linux.com
 ### Education 
 - Computer Science and Engineering, B.S 
 - Political Science, Minor
+- Self taught hacker
 
