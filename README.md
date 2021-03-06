@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ...
 ramirogonzalez@linux.com
+### Education 
+- Computer Science and Engineering, B.S 
+- Political Science, Minor
+
