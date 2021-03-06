@@ -21,6 +21,6 @@ ramirogonzalez@linux.com
 (Graduated May, 2020)
 - Self taught hacker
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 - Software Testing 
 - Computer Networks 
