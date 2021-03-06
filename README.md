@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 ramirogonzalez@linux.com
 ### Education 
-- Computer Science and Engineering, B.S 
+- Computer Science and Engineering, B.S (Class of 2020)
 - Political Science, Minor
 - Self taught hacker
 
