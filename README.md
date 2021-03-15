@@ -24,5 +24,6 @@ ramirogonzalez@linux.com
 🌱 I’m currently learning ...
 - Software Testing 
 - Computer Networks
+
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
