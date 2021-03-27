@@ -27,3 +27,4 @@ ramirogonzalez@linux.com
 
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
+- Software QA Self-Teaching Introductioin 
