@@ -21,7 +21,7 @@ ramirogonzalez@linux.com
 (Graduated May, 2020)
 - Self taught hacker
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apro123&layout=compact&langs_count=10)](https://github.com/r4mz3r0) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4mz3r0&layout=compact&langs_count=10)](https://github.com/r4mz3r0) 
 
 🌱 I’m currently learning ...
 - Software Testing 
