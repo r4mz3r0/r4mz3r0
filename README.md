@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ...
-ramirogonzalez@linux.com
+- 📫 How to reach me: ramirogonzalez@linux.com
 ### Education 
 - Computer Science and Engineering, B.S 
 -  Political Science, Minor
