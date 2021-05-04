@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
-- Software QA Self-Teaching Introductioin 
