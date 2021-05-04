@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ramirogonzalez@linux.com
 ### Education 
-- Computer Science and Engineering, B.S 
+- University of California, Merced 
+  - Computer Science and Engineering, B.S (Graduated May, 2020)
 -  Political Science, Minor
-(Graduated May, 2020)
 - Self taught hacker
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4mz3r0&layout=compact&langs_count=10)](https://github.com/r4mz3r0) 
