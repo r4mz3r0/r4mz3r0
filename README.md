@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 - Software Testing 
 - Computer Networks
+- $\frac{3}{4}$
 
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
