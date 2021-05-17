@@ -26,10 +26,5 @@ Here are some ideas to get you started:
 - Software Testing 
 - Computer Networks
 
-```math
-
-$\frac{3}{4}$
-```
-
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
