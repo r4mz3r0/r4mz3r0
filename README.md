@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Skills 
 - 🌱 Various Programing Languagues 
-  - Python 2/2, C++, Java, Angular, JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
+  - Python 2/3, C++, Java, Angular, JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
 ### Education 
 - University of California, Merced 
   - Computer Science and Engineering, B.S (August 2017 - Graduated May, 2020)
