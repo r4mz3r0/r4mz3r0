@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4mz3r0&layout=compact&langs_count=10)](https://github.com/r4mz3r0) 
 
+[![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4mz3r0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🌱 I’m currently learning ...
 - Software Testing 
 - Computer Networks
