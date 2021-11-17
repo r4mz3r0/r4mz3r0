@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   - Python 2/3, C++, Java, Angular, JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
 ### Education 
 - University of California, Merced 
-  - Computer Science and Engineering, B.S (August 2017 - Graduated May, 2020)
+  - Bachelor of Science in Computer Science and Engineering (August 2017 - Graduated May, 2020) - Deans Honor List
   - Political Science, Minor
 - Self taught hacker
 ### Languages
