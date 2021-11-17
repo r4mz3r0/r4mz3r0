@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ramirogonzalez@linux.com
 
 ### Skills 
-- 🌱 Various Programing Languages
+- Data Structures and Algorithms 
+- Various Programing Languages
   - Python 2/3, C++, Java, Angular, JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
-- 🌱 Security 
+- Security 
   - Web Exploitation
 ### Education 
 - University of California, Merced 
