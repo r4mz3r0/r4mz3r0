@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ### Skills 
 - Data Structures and Algorithms 
 - Various Programing Languages
-  - Python 2/3, C++, Java, Angular, JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
+  - Python 2/3, C++, Java,JavaScript, R, MATLAB, PHP, R, MIPS, Assembly x86
+- Frameworks 
+  - Angular, Xamarian
 - Security 
   - Web Exploitation
 ### Education 
