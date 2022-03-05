@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 
 🌱 I’m currently learning ...
-- Software Testing 
-- Computer Networks
+- Software Testing [Done]
+- Computer Networks 
+- Threat Modeling
 
 🔭 I’m currently reading..
 - The future of software quality assurance (Stephan)
