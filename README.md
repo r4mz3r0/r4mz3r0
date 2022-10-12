@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   - Bachelor of Science in Computer Science and Engineering
     - (August 2017 - Graduated May, 2020) - Deans Honor List
   - Political Science, Minor
+  
+### Professional Experience 
+- Amazon Game Studios 
+
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4mz3r0&layout=compact&langs_count=10)](https://github.com/r4mz3r0) 
 
